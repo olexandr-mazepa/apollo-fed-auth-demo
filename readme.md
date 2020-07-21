@@ -1,0 +1,1 @@
+Authorization and Authentication in apollo federation following the guideline from a [blog article](https://www.apollographql.com/blog/setting-up-authentication-and-authorization-with-apollo-federation/)
